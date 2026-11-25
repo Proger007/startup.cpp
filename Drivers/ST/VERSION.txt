@@ -1,0 +1,2 @@
+9192c7b9df75a142f2027ab266601fe061fc00b3 2026-10-05
+Source: https://github.com/STMicroelectronics/cmsis-device-f4
