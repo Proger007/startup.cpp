@@ -1,0 +1,21 @@
+./talk/06a-early-hook/build/stm32f411/firmware.elf  :
+section              size        addr
+.isr_vector           408   134217728
+.text                  44   134218136
+.rodata                 0   134218180
+.data                   0   536870912
+.bss                    0   536870912
+._user_heap_stack       0   536870912
+.ARM.attributes        52           0
+.debug_info          6441           0
+.debug_abbrev        1689           0
+.debug_aranges        144           0
+.debug_rnglists       100           0
+.debug_line          2923           0
+.debug_str           5682           0
+.comment               70           0
+.debug_frame          168           0
+.debug_loclists       116           0
+Total               17837
+
+

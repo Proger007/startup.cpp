@@ -1,0 +1,21 @@
+./talk/07b-copy-bench/build/stm32f411-nano/firmware.elf  :
+section              size        addr
+.isr_vector           408   134217728
+.text                 284   134218136
+.rodata             16384   134218420
+.data                   0   536870912
+.bss                16400   536870912
+._user_heap_stack       0   536887312
+.ARM.attributes        52           0
+.debug_info         25757           0
+.debug_abbrev        2706           0
+.debug_loclists       387           0
+.debug_aranges        144           0
+.debug_rnglists       242           0
+.debug_line          4295           0
+.debug_str           7217           0
+.comment               70           0
+.debug_frame          248           0
+Total               74594
+
+

@@ -1,0 +1,7 @@
+Vendor startup files for 00-vendor-baseline and 01-vendor-typo, copied unmodified.
+syscalls.c is ours: newlib stubs so the vendor builds link without warnings.
+
+st/startup_stm32f411xe.s     STMicroelectronics/cmsis-device-f4 @ 9192c7b (2026-10-05), Source/Templates/gcc (Apache-2.0)
+nordic/*                     NordicSemiconductor/nrfx nrfx 4.6.0 release, d1f2c35 (2026-09-08), bsp/stable/mdk (BSD-3-Clause)
+
+The vendor CMSIS headers and SystemInit sources live in ../../../Drivers (ST, Nordic, CMSIS).

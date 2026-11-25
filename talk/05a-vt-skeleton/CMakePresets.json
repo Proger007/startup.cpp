@@ -1,0 +1,26 @@
+{
+  "version": 6,
+  "include": [
+    "../common/presets/base.json"
+  ],
+  "configurePresets": [
+    {
+      "name": "stm32f411",
+      "inherits": "_stm32f411"
+    },
+    {
+      "name": "nrf54l15",
+      "inherits": "_nrf54l15"
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "stm32f411",
+      "configurePreset": "stm32f411"
+    },
+    {
+      "name": "nrf54l15",
+      "configurePreset": "nrf54l15"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+00000482 00000002 T timer00_handler()
+0000047a 00000002 T Default_Handler
+00000478 00000002 T main
+0000047c 00000006 T Reset_Handler
+00000000 00000478 t vector_table
+20040000 dffc0484 T __StackTop

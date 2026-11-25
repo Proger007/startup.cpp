@@ -1,0 +1,271 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0x6c CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+ .rodata.APBPrescTable
+                0x00000000        0x8 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+ .rodata.AHBPrescTable
+                0x00000000       0x10 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+ .data.SystemCoreClock
+                0x00000000        0x4 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+FLASH            0x08000000         0x00080000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD CMakeFiles/firmware.dir/main.cpp.obj
+LOAD CMakeFiles/firmware.dir/startup/startup.cpp.obj
+LOAD CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+LOAD CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libstdc++.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+START GROUP
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+END GROUP
+START GROUP
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+                0x20020000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000000                        _Min_Heap_Size = 0x0
+                0x00000000                        _Min_Stack_Size = 0x0
+
+.isr_vector     0x08000000      0x198
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x198 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+                0x08000198                        . = ALIGN (0x4)
+
+.text           0x08000198       0xc4
+                0x08000198                        . = ALIGN (0x4)
+ *(.text)
+ *(.text*)
+ .text.startup.main
+                0x08000198       0x18 CMakeFiles/firmware.dir/main.cpp.obj
+                0x08000198                main
+ .text.startup._GLOBAL__sub_I_counter
+                0x080001b0       0x14 CMakeFiles/firmware.dir/main.cpp.obj
+ .text.Default_Handler
+                0x080001c4        0x2 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+                0x080001c4                Default_Handler
+ *fill*         0x080001c6        0x2 
+ .text.Reset_Handler
+                0x080001c8       0x74 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+                0x080001c8                Reset_Handler
+ .text._Z12tim2_handlerv
+                0x0800023c        0x2 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+                0x0800023c                tim2_handler()
+ *fill*         0x0800023e        0x2 
+ .text.SystemInit
+                0x08000240       0x1c CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+                0x08000240                SystemInit
+ *(.glue_7)
+ .glue_7        0x0800025c        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0800025c        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x0800025c                        . = ALIGN (0x4)
+                0x0800025c                        _etext = .
+
+.vfp11_veneer   0x0800025c        0x0
+ .vfp11_veneer  0x0800025c        0x0 linker stubs
+
+.v4_bx          0x0800025c        0x0
+ .v4_bx         0x0800025c        0x0 linker stubs
+
+.iplt           0x0800025c        0x0
+ .iplt          0x0800025c        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+
+.rel.dyn        0x0800025c        0x0
+ .rel.iplt      0x0800025c        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+
+.rodata         0x0800025c        0x0
+                0x0800025c                        . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x0800025c                        . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x0800025c        0x0
+                0x0800025c                        __exidx_start = .
+ *(.ARM.exidx*)
+                0x0800025c                        __exidx_end = .
+
+.preinit_array  0x0800025c        0x0
+                0x0800025c                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0800025c                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0800025c        0x4
+                0x0800025c                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0800025c        0x4 CMakeFiles/firmware.dir/main.cpp.obj
+                0x08000260                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x08000260        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x08000260                        _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x4 load address 0x08000260
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ *(.data*)
+ .data.increment
+                0x20000000        0x4 CMakeFiles/firmware.dir/main.cpp.obj
+                0x20000000                increment
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        _edata = .
+
+.igot.plt       0x20000004        0x0 load address 0x08000264
+ .igot.plt      0x20000004        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+                0x20000004                        . = ALIGN (0x4)
+
+.bss            0x20000004        0x8 load address 0x08000264
+                0x20000004                        _sbss = .
+                0x20000004                        __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.blinky    0x20000004        0x4 CMakeFiles/firmware.dir/main.cpp.obj
+                0x20000004                blinky
+ .bss.counter   0x20000008        0x4 CMakeFiles/firmware.dir/main.cpp.obj
+                0x20000008                counter
+ *(COMMON)
+                0x2000000c                        . = ALIGN (0x4)
+                0x2000000c                        _ebss = .
+                0x2000000c                        __bss_end__ = _ebss
+
+._user_heap_stack
+                0x2000000c        0x4 load address 0x08000264
+                0x20000010                        . = ALIGN (0x8)
+ *fill*         0x2000000c        0x4 
+                [!provide]                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x20000010                        . = (. + _Min_Heap_Size)
+                0x20000010                        . = (. + _Min_Stack_Size)
+                0x20000010                        . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x34
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/firmware.dir/main.cpp.obj
+ .ARM.attributes
+                0x00000034       0x34 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .ARM.attributes
+                0x00000068       0x34 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+ .ARM.attributes
+                0x0000009c       0x34 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+OUTPUT(firmware.elf elf32-littlearm)
+LOAD linker stubs
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v7e-m+fp/hard\libgcc.a
+
+.debug_info     0x00000000     0x2133
+ .debug_info    0x00000000      0x4d2 CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_info    0x000004d2     0x16d3 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_info    0x00001ba5       0x42 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+ .debug_info    0x00001be7      0x54c CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+
+.debug_abbrev   0x00000000      0x8a6
+ .debug_abbrev  0x00000000      0x161 CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_abbrev  0x00000161      0x5f4 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_abbrev  0x00000755       0x33 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+ .debug_abbrev  0x00000788      0x11e CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+
+.debug_loclists
+                0x00000000      0x12d
+ .debug_loclists
+                0x00000000       0x1c CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_loclists
+                0x0000001c       0x9d CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_loclists
+                0x000000b9       0x74 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+
+.debug_aranges  0x00000000       0x98
+ .debug_aranges
+                0x00000000       0x28 CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_aranges
+                0x00000028       0x28 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_aranges
+                0x00000050       0x20 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+ .debug_aranges
+                0x00000070       0x28 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+
+.debug_rnglists
+                0x00000000       0xa6
+ .debug_rnglists
+                0x00000000       0x19 CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_rnglists
+                0x00000019       0x61 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_rnglists
+                0x0000007a       0x13 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+ .debug_rnglists
+                0x0000008d       0x19 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+
+.debug_line     0x00000000      0xe4e
+ .debug_line    0x00000000      0x328 CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_line    0x00000328      0x7aa CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_line    0x00000ad2       0x93 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+ .debug_line    0x00000b65      0x2e9 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+
+.debug_str      0x00000000     0x212b
+ .debug_str     0x00000000     0x212b CMakeFiles/firmware.dir/main.cpp.obj
+                                0x557 (size before relaxing)
+ .debug_str     0x0000212b        0x0 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+                               0x1f5b (size before relaxing)
+ .debug_str     0x0000212b        0x0 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+                                0x1b7 (size before relaxing)
+ .debug_str     0x0000212b        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+                                0x3d2 (size before relaxing)
+
+.comment        0x00000000       0x46
+ .comment       0x00000000       0x46 CMakeFiles/firmware.dir/main.cpp.obj
+                                 0x47 (size before relaxing)
+ .comment       0x00000046        0x0 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+                                 0x47 (size before relaxing)
+ .comment       0x00000046        0x0 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+                                 0x47 (size before relaxing)
+ .comment       0x00000046        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+                                 0x47 (size before relaxing)
+
+.debug_frame    0x00000000       0xb8
+ .debug_frame   0x00000000       0x30 CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_frame   0x00000030       0x38 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_frame   0x00000068       0x20 CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+ .debug_frame   0x00000088       0x30 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj

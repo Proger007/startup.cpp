@@ -1,0 +1,55 @@
+
+./talk/00-vendor-baseline/build/nrf54l15-full/firmware.elf:     file format elf32-littlearm
+
+
+Disassembly of section .vectors:
+
+Disassembly of section .text:
+
+000005a4 <Reset_Handler>:
+ 5a4:	490f      	ldr	r1, [pc, #60]	@ (5e4 <copy_etext_done+0x8>)
+ 5a6:	4a10      	ldr	r2, [pc, #64]	@ (5e8 <copy_etext_done+0xc>)
+ 5a8:	4b10      	ldr	r3, [pc, #64]	@ (5ec <copy_etext_done+0x10>)
+ 5aa:	f000 f810 	bl	5ce <copy_region>
+ 5ae:	4910      	ldr	r1, [pc, #64]	@ (5f0 <copy_etext_done+0x14>)
+ 5b0:	4a10      	ldr	r2, [pc, #64]	@ (5f4 <copy_etext_done+0x18>)
+ 5b2:	4b11      	ldr	r3, [pc, #68]	@ (5f8 <copy_etext_done+0x1c>)
+ 5b4:	f000 f80b 	bl	5ce <copy_region>
+ 5b8:	4910      	ldr	r1, [pc, #64]	@ (5fc <copy_etext_done+0x20>)
+ 5ba:	4a11      	ldr	r2, [pc, #68]	@ (600 <copy_etext_done+0x24>)
+ 5bc:	4b11      	ldr	r3, [pc, #68]	@ (604 <copy_etext_done+0x28>)
+ 5be:	f000 f806 	bl	5ce <copy_region>
+ 5c2:	4911      	ldr	r1, [pc, #68]	@ (608 <copy_etext_done+0x2c>)
+ 5c4:	4a11      	ldr	r2, [pc, #68]	@ (60c <copy_etext_done+0x30>)
+ 5c6:	4b12      	ldr	r3, [pc, #72]	@ (610 <copy_etext_done+0x34>)
+ 5c8:	f000 f801 	bl	5ce <copy_region>
+ 5cc:	e006      	b.n	5dc <copy_etext_done>
+
+000005ce <copy_region>:
+ 5ce:	1a52      	subs	r2, r2, r1
+ 5d0:	dd03      	ble.n	5da <L_copy_region_done>
+
+000005d2 <L_copy_region>:
+ 5d2:	3a04      	subs	r2, #4
+ 5d4:	5898      	ldr	r0, [r3, r2]
+ 5d6:	5088      	str	r0, [r1, r2]
+ 5d8:	dcfb      	bgt.n	5d2 <L_copy_region>
+
+000005da <L_copy_region_done>:
+ 5da:	4770      	bx	lr
+
+000005dc <copy_etext_done>:
+ 5dc:	f000 f850 	bl	680 <SystemInit>
+ 5e0:	f7ff ff9a 	bl	518 <_mainCRTStartup>
+ 5e4:	20000000 	.word	0x20000000
+ 5e8:	20000008 	.word	0x20000008
+ 5ec:	00000aa0 	.word	0x00000aa0
+ 5f0:	20000008 	.word	0x20000008
+ 5f4:	20000008 	.word	0x20000008
+ 5f8:	00000aa8 	.word	0x00000aa8
+ 5fc:	20000008 	.word	0x20000008
+ 600:	20000008 	.word	0x20000008
+ 604:	00000aa8 	.word	0x00000aa8
+ 608:	20000008 	.word	0x20000008
+ 60c:	20000008 	.word	0x20000008
+ 610:	00000aa8 	.word	0x00000aa8

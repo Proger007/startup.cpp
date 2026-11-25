@@ -1,0 +1,24 @@
+./talk/00-vendor-baseline/build/stm32f411-nano/firmware.elf  :
+section             size        addr
+.isr_vector          408   134217728
+.text                372   134218136
+.rodata                0   134218508
+.init_array            4   134218508
+.fini_array            4   134218512
+.data                  4   536870912
+.bss                  32   536870916
+._user_heap_stack      4   536870948
+.ARM.attributes       48           0
+.debug_info         1596           0
+.debug_abbrev        434           0
+.debug_aranges       112           0
+.debug_rnglists       69           0
+.debug_line         1267           0
+.debug_str          1151           0
+.comment              70           0
+.debug_frame         124           0
+.debug_line_str      199           0
+.debug_loclists      116           0
+Total               6014
+
+

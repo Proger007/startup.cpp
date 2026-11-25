@@ -1,0 +1,3 @@
+Memory region         Used Size  Region Size  %age Used
+           FLASH:        2720 B      1524 KB      0.17%
+             RAM:         452 B       128 KB      0.34%

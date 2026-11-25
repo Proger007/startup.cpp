@@ -1,0 +1,49 @@
+
+./talk/08-full/build/stm32f411-nano/firmware.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+080001c8 <Reset_Handler>:
+ 80001c8:	b508      	push	{r3, lr}
+ 80001ca:	f000 f839 	bl	8000240 <SystemInit>
+ 80001ce:	4b12      	ldr	r3, [pc, #72]	@ (8000218 <Reset_Handler+0x50>)
+ 80001d0:	4a12      	ldr	r2, [pc, #72]	@ (800021c <Reset_Handler+0x54>)
+ 80001d2:	2100      	movs	r1, #0
+ 80001d4:	4293      	cmp	r3, r2
+ 80001d6:	d10e      	bne.n	80001f6 <Reset_Handler+0x2e>
+ 80001d8:	4b11      	ldr	r3, [pc, #68]	@ (8000220 <Reset_Handler+0x58>)
+ 80001da:	4a12      	ldr	r2, [pc, #72]	@ (8000224 <Reset_Handler+0x5c>)
+ 80001dc:	4912      	ldr	r1, [pc, #72]	@ (8000228 <Reset_Handler+0x60>)
+ 80001de:	428b      	cmp	r3, r1
+ 80001e0:	d10c      	bne.n	80001fc <Reset_Handler+0x34>
+ 80001e2:	4c12      	ldr	r4, [pc, #72]	@ (800022c <Reset_Handler+0x64>)
+ 80001e4:	4d12      	ldr	r5, [pc, #72]	@ (8000230 <Reset_Handler+0x68>)
+ 80001e6:	42ac      	cmp	r4, r5
+ 80001e8:	d10d      	bne.n	8000206 <Reset_Handler+0x3e>
+ 80001ea:	4c12      	ldr	r4, [pc, #72]	@ (8000234 <Reset_Handler+0x6c>)
+ 80001ec:	4d12      	ldr	r5, [pc, #72]	@ (8000238 <Reset_Handler+0x70>)
+ 80001ee:	42ac      	cmp	r4, r5
+ 80001f0:	d10d      	bne.n	800020e <Reset_Handler+0x46>
+ 80001f2:	f7ff ffd1 	bl	8000198 <main>
+ 80001f6:	f843 1b04 	str.w	r1, [r3], #4
+ 80001fa:	e7eb      	b.n	80001d4 <Reset_Handler+0xc>
+ 80001fc:	f852 0b04 	ldr.w	r0, [r2], #4
+ 8000200:	f843 0b04 	str.w	r0, [r3], #4
+ 8000204:	e7eb      	b.n	80001de <Reset_Handler+0x16>
+ 8000206:	f854 3b04 	ldr.w	r3, [r4], #4
+ 800020a:	4798      	blx	r3
+ 800020c:	e7eb      	b.n	80001e6 <Reset_Handler+0x1e>
+ 800020e:	f854 3b04 	ldr.w	r3, [r4], #4
+ 8000212:	4798      	blx	r3
+ 8000214:	e7eb      	b.n	80001ee <Reset_Handler+0x26>
+ 8000216:	bf00      	nop
+ 8000218:	20000004 	.word	0x20000004
+ 800021c:	2000000c 	.word	0x2000000c
+ 8000220:	20000000 	.word	0x20000000
+ 8000224:	08000260 	.word	0x08000260
+ 8000228:	20000004 	.word	0x20000004
+ 800022c:	0800025c 	.word	0x0800025c
+ 8000230:	0800025c 	.word	0x0800025c
+ 8000234:	0800025c 	.word	0x0800025c
+ 8000238:	08000260 	.word	0x08000260

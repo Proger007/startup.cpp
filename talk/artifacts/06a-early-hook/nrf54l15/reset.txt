@@ -1,0 +1,10 @@
+
+./talk/06a-early-hook/build/nrf54l15/firmware.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+0000047c <Reset_Handler>:
+ 47c:	b508      	push	{r3, lr}
+ 47e:	f000 f82d 	bl	4dc <SystemInit>
+ 482:	f7ff fff9 	bl	478 <main>

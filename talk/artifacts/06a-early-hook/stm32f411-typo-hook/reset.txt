@@ -1,0 +1,9 @@
+
+./talk/06a-early-hook/build/stm32f411-typo-hook/firmware.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+0800019c <Reset_Handler>:
+ 800019c:	b508      	push	{r3, lr}
+ 800019e:	f7ff fffb 	bl	8000198 <main>

@@ -1,0 +1,18 @@
+{
+  "version": 6,
+  "include": [
+    "../common/presets/base.json"
+  ],
+  "configurePresets": [
+    {
+      "name": "stm32f411",
+      "inherits": "_stm32f411"
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "stm32f411",
+      "configurePreset": "stm32f411"
+    }
+  ]
+}

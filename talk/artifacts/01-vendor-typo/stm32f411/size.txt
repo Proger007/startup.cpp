@@ -1,0 +1,24 @@
+./talk/01-vendor-typo/build/stm32f411/firmware.elf  :
+section             size        addr
+.isr_vector          408   134217728
+.text                400   134218136
+.rodata                0   134218536
+.init_array            4   134218536
+.fini_array            4   134218540
+.data                  0   536870912
+.bss                  28   536870912
+._user_heap_stack      4   536870940
+.ARM.attributes       48           0
+.debug_info         3213           0
+.debug_abbrev        708           0
+.debug_loclists      140           0
+.debug_aranges       120           0
+.debug_rnglists       75           0
+.debug_line         1523           0
+.debug_str          2206           0
+.comment              70           0
+.debug_frame         140           0
+.debug_line_str      190           0
+Total               9281
+
+

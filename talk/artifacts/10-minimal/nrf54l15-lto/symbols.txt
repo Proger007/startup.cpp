@@ -1,0 +1,4 @@
+00000008 00000002 T Reset_Handler
+00000000 00000008 t vector_table
+00000046 000012eb W startup.cpp.2b6b298b
+20040000 dffc000a T __StackTop

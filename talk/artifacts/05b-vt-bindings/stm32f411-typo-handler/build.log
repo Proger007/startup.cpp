@@ -1,0 +1,46 @@
+Preset CMake variables:
+
+  CMAKE_TOOLCHAIN_FILE:FILEPATH="./talk/05b-vt-bindings/../../gcc-arm-none-eabi.cmake"
+  STARTUP_BOARD="NucleoF411RE"
+  STARTUP_VARIANT="typo_handler"
+
+-- The CXX compiler identification is GNU 15.3.1
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (0.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: ./talk/05b-vt-bindings/build/stm32f411-typo-handler
+[1/4] Building CXX object CMakeFiles/firmware.dir/main.cpp.obj
+[2/4] Building CXX object CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+[3/4] Building CXX object CMakeFiles/firmware.dir/startup/startup.cpp.obj
+FAILED: CMakeFiles/firmware.dir/startup/startup.cpp.obj 
+E:\Various\arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi\bin\arm-none-eabi-g++.exe -DSTM32F411xE -I./talk/05b-vt-bindings/variants/typo_handler/NucleoF411RE -I./talk/05b-vt-bindings/bsp/NucleoF411RE -I./talk/05b-vt-bindings/soc/arm -I./talk/05b-vt-bindings/soc/ST/STM32F411 -I./talk/05b-vt-bindings/startup -I./talk/05b-vt-bindings/core -IE:/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/cmake/../Drivers/CMSIS/Include -IE:/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/cmake/../Drivers/ST/Include -std=c++23 -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -g -Os -Wall -ffunction-sections -fdata-sections -fno-rtti -fno-exceptions -fno-threadsafe-statics -fno-builtin -MD -MT CMakeFiles/firmware.dir/startup/startup.cpp.obj -MF CMakeFiles\firmware.dir\startup\startup.cpp.obj.d -o CMakeFiles/firmware.dir/startup/startup.cpp.obj -c ./talk/05b-vt-bindings/startup/startup.cpp
+In file included from ./talk/05b-vt-bindings/startup/startup.cpp:4:
+./talk/05b-vt-bindings/variants/typo_handler/NucleoF411RE/Board.h:21:61: error: 'tim2_handIer' was not declared in this scope; did you mean 'tim2_handler'?
+   21 |         startup::vector_table::IsrBind<STM32F4xxIRQn::TIM2, tim2_handIer>>;
+      |                                                             ^~~~~~~~~~~~
+      |                                                             tim2_handler
+./talk/05b-vt-bindings/variants/typo_handler/NucleoF411RE/Board.h:21:61: error: template argument 2 is invalid
+./talk/05b-vt-bindings/variants/typo_handler/NucleoF411RE/Board.h:21:73: error: template argument 5 is invalid
+   21 |         startup::vector_table::IsrBind<STM32F4xxIRQn::TIM2, tim2_handIer>>;
+      |                                                                         ^~
+./talk/05b-vt-bindings/variants/typo_handler/NucleoF411RE/Board.h:16:48: error: '<expression error>' in namespace 'startup::vector_table' does not name a type
+   16 |     using VectorTable = startup::vector_table::Table<
+      |                                                ^~~~~~
+   17 |         CoreTraits,
+      |         ~~~~~~~~~~~                             
+   18 |         &_estack,
+      |         ~~~~~~~~~                               
+   19 |         Reset_Handler,
+      |         ~~~~~~~~~~~~~~                          
+   20 |         Default_Handler,
+      |         ~~~~~~~~~~~~~~~~                        
+   21 |         startup::vector_table::IsrBind<STM32F4xxIRQn::TIM2, tim2_handIer>>;
+      |         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+./talk/05b-vt-bindings/startup/startup.cpp:18:38: error: 'Board::VectorTable' has not been declared
+   18 | constexpr auto vector_table = Board::VectorTable::generate(std::make_index_sequence<Board::CoreTraits::VectorTableSize>{});
+      |                                      ^~~~~~~~~~~
+ninja: build stopped: subcommand failed.

@@ -1,0 +1,28 @@
+Preset CMake variables:
+
+  CMAKE_TOOLCHAIN_FILE:FILEPATH="./talk/06a-early-hook/../../gcc-arm-none-eabi.cmake"
+  STARTUP_BOARD="NucleoF411RE"
+
+-- The C compiler identification is GNU 15.3.1
+-- The CXX compiler identification is GNU 15.3.1
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (1.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: ./talk/06a-early-hook/build/stm32f411
+[1/5] Building CXX object CMakeFiles/firmware.dir/main.cpp.obj
+[2/5] Building CXX object CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+[3/5] Building C object CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/ST/Source/system_stm32f4xx.c.obj
+[4/5] Building CXX object CMakeFiles/firmware.dir/startup/startup.cpp.obj
+[5/5] Linking CXX executable firmware.elf
+Memory region         Used Size  Region Size  %age Used
+             RAM:           0 B       128 KB      0.00%
+           FLASH:         452 B       512 KB      0.09%

@@ -1,0 +1,21 @@
+#pragma once
+
+#include "nrf54L15Traits.h"
+#include "VectorTable.h"
+#include "Base.h"
+
+extern uintptr_t __StackTop; // NOLINT(*-reserved-identifier)
+
+
+struct nRF54L15DK
+{
+    using CoreTraits = nRF54L15Traits;
+
+    using VectorTable = startup::vector_table::Table<
+        CoreTraits,
+        &__StackTop,
+        Reset_Handler,
+        Default_Handler>;
+};
+
+using Board = nRF54L15DK;

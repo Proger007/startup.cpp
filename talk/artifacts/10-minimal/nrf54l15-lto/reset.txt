@@ -1,0 +1,8 @@
+
+./talk/10-minimal/build/nrf54l15-lto/firmware.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+00000008 <Reset_Handler>:
+   8:	e7fe      	b.n	8 <Reset_Handler>

@@ -1,0 +1,21 @@
+./talk/07a-sections/build/stm32f411/firmware.elf  :
+section              size        addr
+.isr_vector           408   134217728
+.text                 128   134218136
+.rodata                 0   134218264
+.data                   4   536870912
+.bss                    4   536870916
+._user_heap_stack       0   536870920
+.ARM.attributes        52           0
+.debug_info          7900           0
+.debug_abbrev        1967           0
+.debug_aranges        144           0
+.debug_rnglists       136           0
+.debug_line          3629           0
+.debug_str           6951           0
+.comment               70           0
+.debug_frame          168           0
+.debug_loclists       215           0
+Total               21776
+
+

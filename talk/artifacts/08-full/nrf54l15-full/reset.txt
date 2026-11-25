@@ -1,0 +1,49 @@
+
+./talk/08-full/build/nrf54l15-full/firmware.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+000004a8 <Reset_Handler>:
+ 4a8:	b508      	push	{r3, lr}
+ 4aa:	f000 f863 	bl	574 <SystemInit>
+ 4ae:	2100      	movs	r1, #0
+ 4b0:	4b11      	ldr	r3, [pc, #68]	@ (4f8 <Reset_Handler+0x50>)
+ 4b2:	4a12      	ldr	r2, [pc, #72]	@ (4fc <Reset_Handler+0x54>)
+ 4b4:	4293      	cmp	r3, r2
+ 4b6:	d10e      	bne.n	4d6 <Reset_Handler+0x2e>
+ 4b8:	4b11      	ldr	r3, [pc, #68]	@ (500 <Reset_Handler+0x58>)
+ 4ba:	4a12      	ldr	r2, [pc, #72]	@ (504 <Reset_Handler+0x5c>)
+ 4bc:	4912      	ldr	r1, [pc, #72]	@ (508 <Reset_Handler+0x60>)
+ 4be:	428b      	cmp	r3, r1
+ 4c0:	d10c      	bne.n	4dc <Reset_Handler+0x34>
+ 4c2:	4c12      	ldr	r4, [pc, #72]	@ (50c <Reset_Handler+0x64>)
+ 4c4:	4d12      	ldr	r5, [pc, #72]	@ (510 <Reset_Handler+0x68>)
+ 4c6:	42ac      	cmp	r4, r5
+ 4c8:	d10d      	bne.n	4e6 <Reset_Handler+0x3e>
+ 4ca:	4c12      	ldr	r4, [pc, #72]	@ (514 <Reset_Handler+0x6c>)
+ 4cc:	4d12      	ldr	r5, [pc, #72]	@ (518 <Reset_Handler+0x70>)
+ 4ce:	42ac      	cmp	r4, r5
+ 4d0:	d10d      	bne.n	4ee <Reset_Handler+0x46>
+ 4d2:	f7ff ffd1 	bl	478 <main>
+ 4d6:	f843 1b04 	str.w	r1, [r3], #4
+ 4da:	e7eb      	b.n	4b4 <Reset_Handler+0xc>
+ 4dc:	f852 0b04 	ldr.w	r0, [r2], #4
+ 4e0:	f843 0b04 	str.w	r0, [r3], #4
+ 4e4:	e7eb      	b.n	4be <Reset_Handler+0x16>
+ 4e6:	f854 3b04 	ldr.w	r3, [r4], #4
+ 4ea:	4798      	blx	r3
+ 4ec:	e7eb      	b.n	4c6 <Reset_Handler+0x1e>
+ 4ee:	f854 3b04 	ldr.w	r3, [r4], #4
+ 4f2:	4798      	blx	r3
+ 4f4:	e7eb      	b.n	4ce <Reset_Handler+0x26>
+ 4f6:	bf00      	nop
+ 4f8:	20000008 	.word	0x20000008
+ 4fc:	20000010 	.word	0x20000010
+ 500:	20000000 	.word	0x20000000
+ 504:	00000680 	.word	0x00000680
+ 508:	20000008 	.word	0x20000008
+ 50c:	20000004 	.word	0x20000004
+ 510:	20000004 	.word	0x20000004
+ 514:	20000004 	.word	0x20000004
+ 518:	20000008 	.word	0x20000008

@@ -1,0 +1,32 @@
+./talk/00-vendor-baseline/build/nrf54l15-full/firmware.elf  :
+section            size        addr
+.vectors           1144           0
+.rodata               0        1144
+.ARM.exidx            8        1144
+.text              1496        1152
+.copy.table          48        2648
+.zero.table          24        2696
+.data                 8   536870912
+.sdata                0   536870920
+.tdata                0   536870920
+.fast                 0   536870920
+.noinit               0   536870920
+.bss                444   536870920
+.sbss                 0   536871364
+.tbss                 0   536871364
+.heap              8196   536871364
+.stack_dummy       8192   536871368
+.ARM.attributes      54           0
+.comment             70           0
+.debug_line_str     463           0
+.debug_info        6960           0
+.debug_abbrev       827           0
+.debug_aranges      120           0
+.debug_rnglists      69           0
+.debug_line        1661           0
+.debug_str         4313           0
+.debug_frame       1020           0
+.debug_loclists      90           0
+Total             35207
+
+

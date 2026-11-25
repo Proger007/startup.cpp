@@ -1,0 +1,9 @@
+
+./talk/10-minimal/build/stm32f411/firmware.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+0800000a <Reset_Handler>:
+ 800000a:	b508      	push	{r3, lr}
+ 800000c:	f7ff fffc 	bl	8000008 <main>

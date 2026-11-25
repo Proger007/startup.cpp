@@ -1,0 +1,18 @@
+./talk/07b-copy-bench/build/nrf54l15-nano/firmware.elf  :
+section            size        addr
+.text             18136           0
+.data                 0   536870912
+.bss              16400   536870912
+.debug_info       30235           0
+.debug_abbrev      3038           0
+.debug_loclists     337           0
+.debug_aranges      160           0
+.debug_rnglists     295           0
+.debug_line        4673           0
+.debug_str         9432           0
+.comment             70           0
+.ARM.attributes      58           0
+.debug_frame        288           0
+Total             83122
+
+

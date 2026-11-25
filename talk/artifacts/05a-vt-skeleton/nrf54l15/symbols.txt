@@ -1,0 +1,5 @@
+0000047a 00000002 T Default_Handler
+00000478 00000002 T main
+0000047c 00000006 T Reset_Handler
+00000000 00000478 t vector_table
+20040000 dffc0482 T __StackTop

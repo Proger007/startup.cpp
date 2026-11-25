@@ -1,0 +1,22 @@
+./talk/08-full/build/stm32f411-full/firmware.elf  :
+section              size        addr
+.isr_vector           408   134217728
+.text                 196   134218136
+.rodata                 0   134218332
+.init_array             4   134218332
+.data                   4   536870912
+.bss                    8   536870916
+._user_heap_stack       4   536870924
+.ARM.attributes        52           0
+.debug_info          8499           0
+.debug_abbrev        2214           0
+.debug_loclists       301           0
+.debug_aranges        152           0
+.debug_rnglists       166           0
+.debug_line          3662           0
+.debug_str           8491           0
+.comment               70           0
+.debug_frame          184           0
+Total               24415
+
+

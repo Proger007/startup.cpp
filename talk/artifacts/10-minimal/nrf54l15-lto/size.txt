@@ -1,0 +1,17 @@
+./talk/10-minimal/build/nrf54l15-lto/firmware.elf  :
+section            size        addr
+.text                10           0
+.data                 0   536870912
+.bss                  0   536870912
+.debug_info        4913           0
+.debug_abbrev      1240           0
+.debug_aranges       32           0
+.debug_line         385           0
+.debug_str         5059           0
+.comment             70           0
+.ARM.attributes      58           0
+.debug_frame         32           0
+.debug_line_str    1658           0
+Total             13457
+
+

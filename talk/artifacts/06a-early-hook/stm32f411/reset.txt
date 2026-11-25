@@ -1,0 +1,10 @@
+
+./talk/06a-early-hook/build/stm32f411/firmware.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+0800019c <Reset_Handler>:
+ 800019c:	b508      	push	{r3, lr}
+ 800019e:	f000 f803 	bl	80001a8 <SystemInit>
+ 80001a2:	f7ff fff9 	bl	8000198 <main>

@@ -1,0 +1,3 @@
+
+./talk/00-vendor-baseline/build/nrf54l15-full/firmware.elf:     file format elf32-littlearm
+

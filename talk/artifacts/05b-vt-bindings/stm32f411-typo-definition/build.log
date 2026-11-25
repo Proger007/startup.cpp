@@ -1,0 +1,27 @@
+Preset CMake variables:
+
+  CMAKE_TOOLCHAIN_FILE:FILEPATH="./talk/05b-vt-bindings/../../gcc-arm-none-eabi.cmake"
+  STARTUP_BOARD="NucleoF411RE"
+  STARTUP_VARIANT="typo_definition"
+
+-- The CXX compiler identification is GNU 15.3.1
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (1.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: ./talk/05b-vt-bindings/build/stm32f411-typo-definition
+[1/4] Building CXX object CMakeFiles/firmware.dir/main.cpp.obj
+[2/4] Building CXX object CMakeFiles/firmware.dir/variants/typo_definition/NucleoF411RE/Handlers.cpp.obj
+[3/4] Building CXX object CMakeFiles/firmware.dir/startup/startup.cpp.obj
+[4/4] Linking CXX executable firmware.elf
+FAILED: firmware.elf 
+C:\Windows\system32\cmd.exe /C "cd . && E:\Various\arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi\bin\arm-none-eabi-g++.exe  -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -g -Wl,--gc-sections -Wl,--print-memory-usage --specs=nano.specs --specs=nosys.specs -nostartfiles -TE:/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/cmake/../bsp/NucleoF411RE/STM32F411RETx_FLASH.ld -LE:/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/cmake/../bsp/NucleoF411RE -Wl,-Map=./talk/05b-vt-bindings/build/stm32f411-typo-definition/firmware.map CMakeFiles/firmware.dir/main.cpp.obj CMakeFiles/firmware.dir/startup/startup.cpp.obj CMakeFiles/firmware.dir/variants/typo_definition/NucleoF411RE/Handlers.cpp.obj -o firmware.elf   && cd ."
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/bin/ld.exe: CMakeFiles/firmware.dir/startup/startup.cpp.obj:(.isr_vector+0xb0): undefined reference to `tim2_handler()'
+Memory region         Used Size  Region Size  %age Used
+             RAM:           0 B       128 KB      0.00%
+           FLASH:         420 B       512 KB      0.08%
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.

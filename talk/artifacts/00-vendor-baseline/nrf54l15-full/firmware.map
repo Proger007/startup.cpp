@@ -1,0 +1,963 @@
+Archive member included to satisfy reference by file (symbol)
+
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-exit.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o (exit)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-exit.o) (__stdio_exit_handler)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fwalk.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o) (_fwalk_sglue)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o) (__sread)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-memset.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o (memset)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-closer.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o) (_close_r)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-reent.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-closer.o) (errno)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-impure.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-reent.o) (_impure_ptr)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lseekr.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o) (_lseek_r)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-readr.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o) (_read_r)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-writer.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o) (_write_r)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-errno.o)
+                              CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj (__errno)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-init.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o (__libc_init_array)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-exit.o) (__call_exitprocs)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-atexit.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o) (atexit)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-freer.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-reent.o) (_free_r)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o) (_malloc_r)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mlock.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-freer.o) (__malloc_lock)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fclose.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o) (_fclose_r)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fflush.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fclose.o) (__sflush_r)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sbrkr.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-freer.o) (_sbrk_r)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fini.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o) (__libc_fini_array)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sysconf.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-freer.o) (sysconf)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__atexit.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-atexit.o) (__register_exitproc)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sbrkr.o) (_sbrk)
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+                              E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crti.o
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crti.o
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crti.o
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/main.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/main.c.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0x2c CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .data.SystemCoreClock
+                0x00000000        0x4 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .text._close   0x00000000       0x10 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .text._lseek   0x00000000       0x10 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .text._read    0x00000000       0x10 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .text._write   0x00000000       0x10 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .debug_info    0x00000000      0x1c8 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .debug_abbrev  0x00000000       0xfb CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .debug_loclists
+                0x00000000       0xd7 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .debug_aranges
+                0x00000000       0x38 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .debug_rnglists
+                0x00000000       0x25 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .debug_line    0x00000000      0x18c CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .debug_str     0x00000000      0x230 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .comment       0x00000000       0x47 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .debug_frame   0x00000000       0x70 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-exit.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-exit.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x1c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x1c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0xf0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xc0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x3c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x24 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x24 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x44 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x24 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x40 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x28 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x8c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-memset.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-memset.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-closer.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x24 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-closer.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-reent.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-reent.o)
+ .text._reclaim_reent
+                0x00000000       0x6c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x3c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-reent.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-impure.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-impure.o)
+ .data._impure_data
+                0x00000000      0x200 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-impure.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x28 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-readr.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x28 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-readr.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-writer.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x28 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-writer.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-errno.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-errno.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-errno.o)
+ .text.__errno  0x00000000        0xc E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-errno.o)
+ .debug_frame   0x00000000       0x20 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-errno.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-init.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-init.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-init.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x00000000        0x1 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-atexit.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-atexit.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-atexit.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-freer.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-freer.o)
+ .text._malloc_trim_r
+                0x00000000       0xac E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-freer.o)
+ .text._free_r  0x00000000      0x208 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x80 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-freer.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000      0x5a8 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_current_mallinfo
+                0x00000000       0x28 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_max_sbrked_mem
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .data.__malloc_sbrk_base
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .bss.__malloc_top_pad
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .data.__malloc_trim_threshold
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .data.__malloc_av_
+                0x00000000      0x408 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x54 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mlock.o)
+ .text.__malloc_lock
+                0x00000000        0xc E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mlock.o)
+ .text.__malloc_unlock
+                0x00000000        0xc E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fclose.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fclose.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fclose.o)
+ .text._fclose_r
+                0x00000000       0xc4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fclose.o)
+ .text.fclose   0x00000000       0x10 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fclose.o)
+ .debug_frame   0x00000000       0x3c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fclose.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fclose.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x134 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x70 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x90 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x84 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x24 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fini.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fini.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fini.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sysconf.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sysconf.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sysconf.o)
+ .text.sysconf  0x00000000       0x1c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sysconf.o)
+ .debug_frame   0x00000000       0x28 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sysconf.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-sysconf.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__atexit.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__atexit.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__atexit.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x20 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x00000000        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .debug_frame   0x00000000       0x20 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000000       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtend.o
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtend.o
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtend.o
+ .text          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtn.o
+ .data          0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtn.o
+ .bss           0x00000000        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x0017d000         xr
+RAM              0x20000000         0x00020000         xrw
+RAM1             0x20020000         0x00010000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crti.o
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+LOAD CMakeFiles/firmware.dir/main.c.obj
+LOAD CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+LOAD CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+LOAD CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+START GROUP
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc.a
+END GROUP
+START GROUP
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a
+END GROUP
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtend.o
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtn.o
+START GROUP
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc.a
+END GROUP
+                0x00000000                        . = ALIGN (ORIGIN (FLASH), 0x4)
+
+.vectors        0x00000000      0x478
+                0x00000000                        __vectors_start = .
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x478 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+                0x00000000                __isr_vector
+ *(.vectors)
+                0x00000478                        __vectors_size = SIZEOF (.vectors)
+                0x00000478                        __vectors_end = (__vectors_start + __vectors_size)
+                0x00000001                        ASSERT (((__vectors_start == __vectors_end) || ((__vectors_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .vectors is too large to fit in FLASH memory segment)
+                0x00000478                        . = ALIGN (0x4)
+
+.ctors          0x00000478        0x0
+                0x00000478                        __ctors_start = .
+                0x00000478                        __CTOR_LIST__ = .
+ *crtbegin*.o(.ctors)
+ *(EXCLUDE_FILE(*crtend*.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x00000478                        __CTOR_END__ = .
+                0x00000000                        __ctors_size = SIZEOF (.ctors)
+                0x00000478                        __ctors_end = (__ctors_start + __ctors_size)
+                0x00000001                        ASSERT (((__ctors_start == __ctors_end) || ((__ctors_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .ctors is too large to fit in FLASH memory segment)
+                0x00000478                        . = ALIGN (0x4)
+
+.dtors          0x00000478        0x0
+                0x00000478                        __dtors_start = .
+                0x00000478                        __DTOR_LIST__ = .
+ *crtbegin*.o(.dtors)
+ *(EXCLUDE_FILE(*crtend*.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x00000478                        __DTOR_END__ = .
+                0x00000000                        __dtors_size = SIZEOF (.dtors)
+                0x00000478                        __dtors_end = (__dtors_start + __dtors_size)
+                0x00000001                        ASSERT (((__dtors_start == __dtors_end) || ((__dtors_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .dtors is too large to fit in FLASH memory segment)
+                0x00000478                        . = ALIGN (0x4)
+
+.rodata         0x00000478        0x0
+                0x00000478                        . = ALIGN (0x4)
+                0x00000478                        __rodata_start = .
+ *(.rodata*)
+ *(.srodata .srodata.*)
+                0x00000478                        . = ALIGN (0x4)
+                0x00000000                        __rodata_size = SIZEOF (.rodata)
+                0x00000478                        __rodata_end = (__rodata_start + __rodata_size)
+                0x00000001                        ASSERT (((__rodata_start == __rodata_end) || ((__rodata_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .rodata is too large to fit in FLASH memory segment)
+
+.ARM.exidx      0x00000478        0x8
+ .ARM.exidx     0x00000478        0x8 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+                                 0x10 (size before relaxing)
+                0x00000480                        . = ALIGN (0x4)
+
+.text           0x00000480      0x5d8
+                0x00000480                        __text_start = .
+ *(.startup)
+ *(.startup*)
+ *(.text*)
+ .text.deregister_tm_clones
+                0x00000480       0x1c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.register_tm_clones
+                0x0000049c       0x28 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.__do_global_dtors_aux
+                0x000004c4       0x28 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text.frame_dummy
+                0x000004ec       0x24 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .text          0x00000510       0x7c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+                0x00000510                _stack_init
+                0x00000518                _start
+                0x00000518                _mainCRTStartup
+ .text.startup.main
+                0x0000058c       0x18 CMakeFiles/firmware.dir/main.c.obj
+                0x0000058c                main
+ .text          0x000005a4       0x88 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+                0x000005a4                Reset_Handler
+                0x00000614                NMI_Handler
+                0x00000616                HardFault_Handler
+                0x00000618                MemoryManagement_Handler
+                0x0000061a                BusFault_Handler
+                0x0000061c                UsageFault_Handler
+                0x0000061e                SecureFault_Handler
+                0x00000620                SVC_Handler
+                0x00000622                DebugMon_Handler
+                0x00000624                PendSV_Handler
+                0x00000626                SysTick_Handler
+                0x00000628                TEMP_IRQHandler
+                0x00000628                GPIOTE30_0_IRQHandler
+                0x00000628                AAR00_CCM00_IRQHandler
+                0x00000628                SERIAL20_IRQHandler
+                0x00000628                SPU10_IRQHandler
+                0x00000628                SERIAL30_IRQHandler
+                0x00000628                MPC00_IRQHandler
+                0x00000628                GRTC_3_IRQHandler
+                0x00000628                EGU10_IRQHandler
+                0x00000628                CRACEN_IRQHandler
+                0x00000628                CM33SS_IRQHandler
+                0x00000628                QDEC21_IRQHandler
+                0x00000628                ECB00_IRQHandler
+                0x00000628                TIMER23_IRQHandler
+                0x00000628                TAMPC_IRQHandler
+                0x00000628                RADIO_1_IRQHandler
+                0x00000628                GRTC_2_IRQHandler
+                0x00000628                Default_Handler
+                0x00000628                SERIAL00_IRQHandler
+                0x00000628                SPU00_IRQHandler
+                0x00000628                WDT31_IRQHandler
+                0x00000628                SWI01_IRQHandler
+                0x00000628                GPIOTE20_1_IRQHandler
+                0x00000628                GPIOTE30_1_IRQHandler
+                0x00000628                TIMER21_IRQHandler
+                0x00000628                TIMER00_IRQHandler
+                0x00000628                SERIAL21_IRQHandler
+                0x00000628                SWI03_IRQHandler
+                0x00000628                SAADC_IRQHandler
+                0x00000628                PDM20_IRQHandler
+                0x00000628                SWI00_IRQHandler
+                0x00000628                GPIOTE20_0_IRQHandler
+                0x00000628                SWI02_IRQHandler
+                0x00000628                TIMER24_IRQHandler
+                0x00000628                SERIAL22_IRQHandler
+                0x00000628                CTRLAP_IRQHandler
+                0x00000628                SPU30_IRQHandler
+                0x00000628                VPR00_IRQHandler
+                0x00000628                RRAMC_IRQHandler
+                0x00000628                RADIO_0_IRQHandler
+                0x00000628                GRTC_0_IRQHandler
+                0x00000628                NFCT_IRQHandler
+                0x00000628                SPU20_IRQHandler
+                0x00000628                EGU20_IRQHandler
+                0x00000628                TIMER10_IRQHandler
+                0x00000628                PDM21_IRQHandler
+                0x00000628                I2S20_IRQHandler
+                0x00000628                TIMER20_IRQHandler
+                0x00000628                GRTC_1_IRQHandler
+                0x00000628                TIMER22_IRQHandler
+                0x00000628                QDEC20_IRQHandler
+                0x00000628                PWM22_IRQHandler
+                0x00000628                PWM20_IRQHandler
+                0x00000628                COMP_LPCOMP_IRQHandler
+                0x00000628                PWM21_IRQHandler
+                0x00000628                WDT30_IRQHandler
+                0x00000628                CLOCK_POWER_IRQHandler
+ .text.nrf54l_errata_31
+                0x0000062c       0x20 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .text.nrf54l_handle_approtect_signal
+                0x0000064c       0x34 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .text.SystemInit
+                0x00000680      0x10c CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+                0x00000680                SystemInit
+ .text.exit     0x0000078c       0x1c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-exit.o)
+                0x0000078c                exit
+ .text.memset   0x000007a8       0x88 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-memset.o)
+                0x000007a8                memset
+ .text.__libc_init_array
+                0x00000830       0x4c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-init.o)
+                0x00000830                __libc_init_array
+ .text.__retarget_lock_acquire_recursive
+                0x0000087c        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+                0x0000087c                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x00000880        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+                0x00000880                __retarget_lock_release_recursive
+ .text.startup.register_fini
+                0x00000884       0x14 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000898       0xdc E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o)
+                0x00000898                __call_exitprocs
+ .text.atexit   0x00000974        0xc E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-atexit.o)
+                0x00000974                atexit
+ .text.__libc_fini_array
+                0x00000980       0x28 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fini.o)
+                0x00000980                __libc_fini_array
+ .text.__register_exitproc
+                0x000009a8       0x84 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__atexit.o)
+                0x000009a8                __register_exitproc
+ .text._exit    0x00000a2c        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+                0x00000a2c                _exit
+                0x00000a30                        . = ALIGN (0x4)
+ *(.init)
+ .init          0x00000a30        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crti.o
+                0x00000a30                _init
+ .init          0x00000a34        0x8 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtn.o
+                0x00000a3c                        . = ALIGN (0x4)
+                0x00000a3c                        __preinit_array_start = .
+ *(.preinit_array)
+                0x00000a3c                        __preinit_array_end = .
+                0x00000a3c                        . = ALIGN (0x4)
+                0x00000a3c                        __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x00000a3c        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x00000a40        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                0x00000a44                        __init_array_end = .
+ *(.fini)
+ .fini          0x00000a44        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crti.o
+                0x00000a44                _fini
+ .fini          0x00000a48        0x8 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtn.o
+                0x00000a50                        . = ALIGN (0x4)
+                0x00000a50                        __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x00000a50        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                0x00000a54                        __fini_array_end = .
+                0x00000a54                        . = ALIGN (0x4)
+ *(.eh_frame*)
+ .eh_frame      0x00000a54        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .eh_frame      0x00000a54        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtend.o
+                0x00000a58                        . = ALIGN (0x4)
+ *(.eh_frame_hdr)
+                0x00000a58                        . = ALIGN (0x4)
+ *(.hash)
+ *(.gnu.hash)
+                0x00000a58                        . = ALIGN (0x4)
+ *(.gnu_extab* .gnu.linkonce.extab.*)
+                0x00000a58                        . = ALIGN (0x4)
+                0x00000a58                        __exidx_start = .
+ *(.gnu_exidx* .gnu.linkonce.exidx.*)
+                0x00000a58                        . = ALIGN (0x4)
+                0x00000a58                        __exidx_end = .
+                0x000005d8                        __text_size = SIZEOF (.text)
+                0x00000a58                        __text_end = (__text_start + __text_size)
+                0x00000001                        ASSERT (((__text_start == __text_end) || ((__text_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .text is too large to fit in FLASH memory segment)
+
+.glue_7         0x00000a58        0x0
+ .glue_7        0x00000a58        0x0 linker stubs
+
+.glue_7t        0x00000a58        0x0
+ .glue_7t       0x00000a58        0x0 linker stubs
+
+.vfp11_veneer   0x00000a58        0x0
+ .vfp11_veneer  0x00000a58        0x0 linker stubs
+
+.v4_bx          0x00000a58        0x0
+ .v4_bx         0x00000a58        0x0 linker stubs
+
+.iplt           0x00000a58        0x0
+ .iplt          0x00000a58        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+
+.rel.dyn        0x00000a58        0x0
+ .rel.iplt      0x00000a58        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                0x00000a58                        . = ALIGN (0x4)
+
+.copy.table     0x00000a58       0x30
+                0x00000a58                        __copy_table_start__ = .
+                0x00000a58        0x4 LONG 0xaa0 __data_load_start
+                0x00000a5c        0x4 LONG 0x20000000 __data_start
+                0x00000a60        0x4 LONG 0x2 ((__data_end - __data_start) / 0x4)
+                0x00000a64        0x4 LONG 0xaa8 __sdata_load_start
+                0x00000a68        0x4 LONG 0x20000008 __sdata_start
+                0x00000a6c        0x4 LONG 0x0 ((__sdata_end - __sdata_start) / 0x4)
+                0x00000a70        0x4 LONG 0xaa8 __tdata_load_start
+                0x00000a74        0x4 LONG 0x20000008 __tdata_start
+                0x00000a78        0x4 LONG 0x0 ((__tdata_end - __tdata_start) / 0x4)
+                0x00000a7c        0x4 LONG 0xaa8 __fast_load_start
+                0x00000a80        0x4 LONG 0x20000008 __fast_start
+                0x00000a84        0x4 LONG 0x0 ((__fast_end - __fast_start) / 0x4)
+                0x00000a88                        __copy_table_end__ = .
+                0x00000a88                        . = ALIGN (0x4)
+
+.zero.table     0x00000a88       0x18
+                0x00000a88                        __zero_table_start__ = .
+                0x00000a88        0x4 LONG 0x20000008 __bss_start
+                0x00000a8c        0x4 LONG 0x6f ((__bss_end - __bss_start) / 0x4)
+                0x00000a90        0x4 LONG 0x200001c4 __sbss_start
+                0x00000a94        0x4 LONG 0x0 ((__sbss_end - __sbss_start) / 0x4)
+                0x00000a98        0x4 LONG 0x200001c4 __tbss_start
+                0x00000a9c        0x4 LONG 0x0 ((__tbss_end - __tbss_start) / 0x4)
+                0x00000aa0                        __zero_table_end__ = .
+                0x00000aa0                        . = ALIGN (0x4)
+                0x00000aa0                        __etext = .
+                [!provide]                        PROVIDE (etext = .)
+                0x00000aa0                        PROVIDE (_etext = .)
+                0x00000aa0                        . = ALIGN (0x4)
+                0x00000aa0                        __all_data_load_start = .
+                0x00000aa0                        __data_load_start = .
+
+.data           0x20000000        0x8 load address 0x00000aa0
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        __data_start = .
+                0x20000000                        __data_start__ = .
+ *(vtable)
+ *(.data* .gnu.linkonce.d.*)
+ .data.increment
+                0x20000000        0x4 CMakeFiles/firmware.dir/main.c.obj
+                0x20000000                increment
+ .data.__atexit_recursive_mutex
+                0x20000004        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o)
+                0x20000004                __atexit_recursive_mutex
+                0x20000008                        . = ALIGN (0x4)
+ *(.jcr*)
+                0x00000008                        __data_size = SIZEOF (.data)
+                0x20000008                        __data_end = (__data_start + __data_size)
+                0x20000008                        __data_end__ = __data_end
+                0x00000aa8                        __data_load_end = (__data_load_start + __data_size)
+                0x00000001                        ASSERT (((__data_load_start == __data_load_end) || ((__data_load_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .data is too large to fit in FLASH memory segment)
+                0x00000001                        ASSERT (((__data_start == __data_end) || ((__data_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .data is too large to fit in RAM memory segment)
+
+.tm_clone_table
+                0x20000008        0x0 load address 0x00000aa8
+ .tm_clone_table
+                0x20000008        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x20000008        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtend.o
+
+.igot.plt       0x20000008        0x0 load address 0x00000aa8
+ .igot.plt      0x20000008        0x0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+                0x20000008                        . = ALIGN (0x4)
+                0x00000aa8                        __sdata_load_start = ALIGN (__data_load_end, 0x4)
+
+.sdata          0x20000008        0x0 load address 0x00000aa8
+                0x20000008                        . = ALIGN (0x4)
+                0x20000008                        __sdata_start = .
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x20000008                        . = ALIGN (0x4)
+                0x00000000                        __sdata_size = SIZEOF (.sdata)
+                0x20000008                        __sdata_end = (__sdata_start + __sdata_size)
+                0x00000aa8                        __sdata_load_end = (__sdata_load_start + __sdata_size)
+                0x00000001                        ASSERT (((__sdata_load_start == __sdata_load_end) || ((__sdata_load_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .sdata is too large to fit in FLASH memory segment)
+                0x00000001                        ASSERT (((__sdata_start == __sdata_end) || ((__sdata_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .sdata is too large to fit in RAM memory segment)
+                0x20000008                        . = ALIGN (0x4)
+                0x00000aa8                        __tdata_load_start = ALIGN (__sdata_load_end, 0x4)
+
+.tdata          0x20000008        0x0 load address 0x00000aa8
+                0x20000008                        . = ALIGN (0x4)
+                0x20000008                        __tdata_start = .
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+ *(.stdata .stdata.*)
+                0x20000008                        . = ALIGN (0x4)
+                0x00000000                        __tdata_size = SIZEOF (.tdata)
+                0x20000008                        __tdata_end = (__tdata_start + __tdata_size)
+                0x00000aa8                        __tdata_load_end = (__tdata_load_start + __tdata_size)
+                0x00000001                        ASSERT (((__tdata_load_start == __tdata_load_end) || ((__tdata_load_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .tdata is too large to fit in FLASH memory segment)
+                0x00000001                        ASSERT (((__tdata_start == __tdata_end) || ((__tdata_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .tdata is too large to fit in RAM memory segment)
+                0x20000008                        . = ALIGN (0x4)
+                0x00000aa8                        __fast_load_start = ALIGN (__tdata_load_end, 0x4)
+
+.fast           0x20000008        0x0 load address 0x00000aa8
+                0x20000008                        . = ALIGN (0x4)
+                0x20000008                        __fast_start = .
+ *(.fast .fast.*)
+ *(.fastcode .fastcode.*)
+ *(.fastdata .fastdata.*)
+ *(.ramcode*)
+                0x20000008                        . = ALIGN (0x4)
+                0x00000000                        __fast_size = SIZEOF (.fast)
+                0x20000008                        __fast_end = (__fast_start + __fast_size)
+                0x00000aa8                        __fast_load_end = (__fast_load_start + __fast_size)
+                0x00000001                        ASSERT (((__fast_load_start == __fast_load_end) || ((__fast_load_end - ORIGIN (FLASH)) <= LENGTH (FLASH))), error: .fast is too large to fit in FLASH memory segment)
+                0x00000001                        ASSERT (((__fast_start == __fast_end) || ((__fast_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .fast is too large to fit in RAM memory segment)
+                0x20000008                        . = ALIGN (0x4)
+                0x20000008                        _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                [!provide]                        PROVIDE (__edata = .)
+                0x20000008                        . = ALIGN (0x4)
+
+.noinit         0x20000008        0x0
+                0x20000008                        __noinit_start = .
+                [!provide]                        PROVIDE (__noinit_start__ = .)
+ *(.noinit .noinit.*)
+ *(.no_init .no_init.*)
+ *(.noninit .noninit.*)
+ *(.non_init .non_init.*)
+                0x20000008                        . = ALIGN (0x4)
+                0x00000000                        __noinit_size = SIZEOF (.noinit)
+                0x20000008                        __noinit_end = (__noinit_start + __noinit_size)
+                0x20000008                        __noinit_end__ = __noinit_end
+                0x00000001                        ASSERT (((__noinit_start == __noinit_end) || ((__noinit_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .noinit is too large to fit in RAM memory segment)
+                0x20000008                        . = ALIGN (0x4)
+
+.bss            0x20000008      0x1bc load address 0x00000aa8
+                0x20000008                        __bss_start = .
+                0x20000008                        PROVIDE (__bss_start__ = .)
+ *(.bss* .gnu.linkonce.b.*)
+ .bss.completed.1
+                0x20000008        0x1 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ *fill*         0x20000009        0x3 
+ .bss.object.0  0x2000000c       0x18 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .bss.counter   0x20000024        0x4 CMakeFiles/firmware.dir/main.c.obj
+                0x20000024                counter
+ .bss.__stdio_exit_handler
+                0x20000028        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+                0x20000028                __stdio_exit_handler
+ .bss.__lock___atexit_recursive_mutex
+                0x2000002c        0x1 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+                0x2000002c                __lock___atexit_recursive_mutex
+ *fill*         0x2000002d        0x3 
+ .bss.__atexit  0x20000030        0x4 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o)
+                0x20000030                __atexit
+ .bss.__atexit0
+                0x20000034      0x190 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__atexit.o)
+                0x20000034                __atexit0
+ *(.dynbss)
+ *(COMMON)
+                0x200001c4                        . = ALIGN (0x4)
+                0x000001bc                        __bss_size = SIZEOF (.bss)
+                0x200001c4                        __bss_end = (__bss_start + __bss_size)
+                0x200001c4                        __bss_end__ = __bss_end
+                0x00000001                        ASSERT (((__bss_start == __bss_end) || ((__bss_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .bss is too large to fit in RAM memory segment)
+                0x200001c4                        . = ALIGN (0x4)
+
+.sbss           0x200001c4        0x0
+                0x200001c4                        __sbss_start = .
+                0x200001c4                        __sbss_start__ = __sbss_start
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.dynsbss)
+                0x200001c4                        . = ALIGN (0x4)
+                0x00000000                        __sbss_size = SIZEOF (.sbss)
+                0x200001c4                        __sbss_end = (__sbss_start + __sbss_size)
+                0x200001c4                        __sbss_end__ = __sbss_end
+                0x00000001                        ASSERT (((__sbss_start == __sbss_end) || ((__sbss_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .sbss is too large to fit in RAM memory segment)
+                0x200001c4                        . = ALIGN (0x4)
+
+.tbss           0x200001c4        0x0
+                0x200001c4                        __tbss_start = .
+                0x200001c4                        __tbss_start__ = __tbss_start
+                0x200001c4                        . = ALIGN (0x4)
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+ *(.stbss .stbss.*)
+                0x200001c4                        . = ALIGN (0x4)
+                0x00000000                        __tbss_size = SIZEOF (.tbss)
+                0x200001c4                        __tbss_end = (__tbss_start + __tbss_size)
+                0x200001c4                        __tbss_end__ = __tbss_end
+                0x00000001                        ASSERT (((__tbss_start == __tbss_end) || ((__tbss_end - ORIGIN (RAM)) <= LENGTH (RAM))), error: .tbss is too large to fit in RAM memory segment)
+                0x200001c4                        . = ALIGN (0x4)
+                0x200001c4                        . = SEGMENT_START ("ldata-segment", .)
+                0x200001c4                        . = ALIGN (0x4)
+
+.heap           0x200001c4     0x2004
+                0x200001c4                        __heap_start = .
+                0x200001c4                        __HeapBase = .
+                0x200001c4                        __heap_base = .
+                0x200001c4                        __end = .
+                0x200001c4                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                [!provide]                        PROVIDE (__end__ = .)
+ *(.heap*)
+ *fill*         0x200001c4        0x4 
+ .heap          0x200001c8     0x2000 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+                0x200021c8                        __HeapLimit = .
+                0x200021c8                        __heap_limit = .
+                0x200021c8                        __heap_end = .
+
+.stack_dummy    0x200001c8     0x2000
+ *(.stack*)
+ .stack         0x200001c8     0x2000 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+                0x20020000                        __stack_end = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20020000                        __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x2001e000                        __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x20020000                        PROVIDE (__stack = __StackTop)
+                0x00000001                        ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x00000008                        DataInitFlashUsed = (__bss_start - __data_start)
+                0x00000aa0                        CodeFlashUsed = (_etext - ORIGIN (FLASH))
+                0x00000aa8                        TotalFlashUsed = (CodeFlashUsed + DataInitFlashUsed)
+                0x00000001                        ASSERT ((TotalFlashUsed <= LENGTH (FLASH)), region FLASH overflowed with .data and user data)
+OUTPUT(firmware.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x00000000       0x36
+ .ARM.attributes
+                0x00000000       0x26 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crti.o
+ .ARM.attributes
+                0x00000026       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000005e       0x24 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000082       0x3a CMakeFiles/firmware.dir/main.c.obj
+ .ARM.attributes
+                0x000000bc       0x24 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+ .ARM.attributes
+                0x000000e0       0x3a CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .ARM.attributes
+                0x0000011a       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000152       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x0000018a       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-memset.o)
+ .ARM.attributes
+                0x000001c2       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-init.o)
+ .ARM.attributes
+                0x000001fa       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .ARM.attributes
+                0x00000232       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000026a       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-atexit.o)
+ .ARM.attributes
+                0x000002a2       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fini.o)
+ .ARM.attributes
+                0x000002da       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__atexit.o)
+ .ARM.attributes
+                0x00000312       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000034a       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000382       0x26 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard/crtn.o
+
+.comment        0x00000000       0x46
+ .comment       0x00000000       0x46 CMakeFiles/firmware.dir/main.c.obj
+                                 0x47 (size before relaxing)
+ .comment       0x00000046        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+                                 0x47 (size before relaxing)
+
+.debug_line_str
+                0x00000000      0x1cf
+ .debug_line_str
+                0x00000000      0x1cf E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard/crt0.o
+                                 0xf8 (size before relaxing)
+ .debug_line_str
+                0x000001cf        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+                                 0xd7 (size before relaxing)
+
+.debug_info     0x00000000     0x1b30
+ .debug_info    0x00000000       0xc0 CMakeFiles/firmware.dir/main.c.obj
+ .debug_info    0x000000c0      0x39b CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+ .debug_info    0x0000045b     0x16d5 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_abbrev   0x00000000      0x33b
+ .debug_abbrev  0x00000000       0x70 CMakeFiles/firmware.dir/main.c.obj
+ .debug_abbrev  0x00000070       0x28 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+ .debug_abbrev  0x00000098      0x2a3 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_aranges  0x00000000       0x78
+ .debug_aranges
+                0x00000000       0x20 CMakeFiles/firmware.dir/main.c.obj
+ .debug_aranges
+                0x00000020       0x20 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+ .debug_aranges
+                0x00000040       0x38 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_rnglists
+                0x00000000       0x45
+ .debug_rnglists
+                0x00000000       0x13 CMakeFiles/firmware.dir/main.c.obj
+ .debug_rnglists
+                0x00000013       0x32 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_line     0x00000000      0x67d
+ .debug_line    0x00000000      0x190 CMakeFiles/firmware.dir/main.c.obj
+ .debug_line    0x00000190       0x84 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+ .debug_line    0x00000214      0x469 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_str      0x00000000     0x10d9
+ .debug_str     0x00000000     0x10d9 CMakeFiles/firmware.dir/main.c.obj
+                                0x21a (size before relaxing)
+ .debug_str     0x000010d9        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+                                0x5b4 (size before relaxing)
+ .debug_str     0x000010d9        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+                                0xba7 (size before relaxing)
+
+.debug_frame    0x00000000      0x3fc
+ .debug_frame   0x00000000       0x20 CMakeFiles/firmware.dir/main.c.obj
+ .debug_frame   0x00000020       0x58 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .debug_frame   0x00000078       0x28 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-exit.o)
+ .debug_frame   0x000000a0      0x13c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-findfp.o)
+ .debug_frame   0x000001dc       0x2c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-memset.o)
+ .debug_frame   0x00000208       0x2c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-init.o)
+ .debug_frame   0x00000234       0xb0 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-lock.o)
+ .debug_frame   0x000002e4       0x6c E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__call_atexit.o)
+ .debug_frame   0x00000350       0x20 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-atexit.o)
+ .debug_frame   0x00000370       0x34 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-fini.o)
+ .debug_frame   0x000003a4       0x38 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a(libc_a-__atexit.o)
+ .debug_frame   0x000003dc       0x20 E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a(_exit.o)
+
+.debug_loclists
+                0x00000000       0x5a
+ .debug_loclists
+                0x00000000       0x5a CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj

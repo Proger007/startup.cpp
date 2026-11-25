@@ -1,0 +1,20 @@
+./talk/10-minimal/build/stm32f411-lto/firmware.elf  :
+section              size        addr
+.isr_vector             8   134217728
+.text                   4   134217736
+.rodata                 0   134217740
+.data                   0   536870912
+.bss                    0   536870912
+._user_heap_stack       0   536870912
+.ARM.attributes        52           0
+.debug_info          4913           0
+.debug_abbrev        1240           0
+.debug_aranges         32           0
+.debug_line           385           0
+.debug_str           5039           0
+.comment               70           0
+.debug_frame           32           0
+.debug_line_str      1657           0
+Total               13432
+
+

@@ -1,0 +1,15 @@
+0800039c 00000002 T tim2_handler()
+08000354 00000002 T Default_Handler
+08004444 00000008 R __exidx_start
+20000000 00000010 B results
+080003a0 0000001c T SystemInit
+08000358 00000044 T Reset_Handler
+080003bc 00000086 T memset
+080002cc 00000088 T main
+08000198 00000134 T memcpy
+08000000 00000198 r vector_table
+20000010 00004000 b (anonymous namespace)::destination
+08000444 00004000 r (anonymous namespace)::source
+20000000 00004010 B __bss_start__
+20000000 00004010 B _sbss
+20020000 e7fe0198 R _estack

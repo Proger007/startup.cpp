@@ -1,0 +1,18 @@
+./talk/08-full/build/nrf54l15-nano/firmware.elf  :
+section            size        addr
+.text              1664           0
+.data                 8   536870912
+.bss                  8   536870920
+.debug_info       12988           0
+.debug_abbrev      2592           0
+.debug_loclists     275           0
+.debug_aranges      168           0
+.debug_rnglists     191           0
+.debug_line        4045           0
+.debug_str        10704           0
+.comment             70           0
+.ARM.attributes      58           0
+.debug_frame        224           0
+Total             32995
+
+

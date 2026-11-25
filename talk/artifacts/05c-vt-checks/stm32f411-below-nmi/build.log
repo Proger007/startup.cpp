@@ -1,0 +1,34 @@
+Preset CMake variables:
+
+  CMAKE_TOOLCHAIN_FILE:FILEPATH="./talk/05c-vt-checks/../../gcc-arm-none-eabi.cmake"
+  STARTUP_BOARD="NucleoF411RE"
+  STARTUP_VARIANT="below_nmi"
+
+-- The CXX compiler identification is GNU 15.3.1
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (0.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: ./talk/05c-vt-checks/build/stm32f411-below-nmi
+[1/4] Building CXX object CMakeFiles/firmware.dir/main.cpp.obj
+[2/4] Building CXX object CMakeFiles/firmware.dir/bsp/NucleoF411RE/Handlers.cpp.obj
+[3/4] Building CXX object CMakeFiles/firmware.dir/startup/startup.cpp.obj
+FAILED: CMakeFiles/firmware.dir/startup/startup.cpp.obj 
+E:\Various\arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi\bin\arm-none-eabi-g++.exe -DSTM32F411xE -I./talk/05c-vt-checks/variants/below_nmi/NucleoF411RE -I./talk/05c-vt-checks/bsp/NucleoF411RE -I./talk/05c-vt-checks/soc/arm -I./talk/05c-vt-checks/soc/ST/STM32F411 -I./talk/05c-vt-checks/startup -I./talk/05c-vt-checks/core -IE:/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/cmake/../Drivers/CMSIS/Include -IE:/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/cmake/../Drivers/ST/Include -std=c++23 -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -g -Os -Wall -ffunction-sections -fdata-sections -fno-rtti -fno-exceptions -fno-threadsafe-statics -fno-builtin -MD -MT CMakeFiles/firmware.dir/startup/startup.cpp.obj -MF CMakeFiles\firmware.dir\startup\startup.cpp.obj.d -o CMakeFiles/firmware.dir/startup/startup.cpp.obj -c ./talk/05c-vt-checks/startup/startup.cpp
+In file included from ./talk/05c-vt-checks/variants/below_nmi/NucleoF411RE/Board.h:4,
+                 from ./talk/05c-vt-checks/startup/startup.cpp:4:
+./talk/05c-vt-checks/core/VectorTable.h: In instantiation of 'struct startup::vector_table::checks::BindingInRange<startup::vector_table::IsrBind<-15, tim2_handler>, 102>':
+./talk/05c-vt-checks/core/VectorTable.h:135:83:   required from 'struct startup::vector_table::Table<STM32F4xxTraits, (& _estack), Reset_Handler, Default_Handler, startup::vector_table::IsrBind<-15, tim2_handler> >'
+  135 |         static_assert((checks::BindingInRange<Bindings, Traits::VectorTableSize>::value && ...));
+      |                                                                                   ^~~~~
+./talk/05c-vt-checks/startup/startup.cpp:18:49:   required from here
+   18 | constexpr auto vector_table = Board::VectorTable::generate(std::make_index_sequence<Board::CoreTraits::VectorTableSize>{});
+      |                                                 ^~
+./talk/05c-vt-checks/core/VectorTable.h:71:40: error: static assertion failed: IsrBind: IRQ number is below NMI (-14). Stack Pointer and Reset slots cannot be rebound
+   71 |             static_assert(Binding::irq >= first,
+      |                                    ~~~~^~~~~~~~
+./talk/05c-vt-checks/core/VectorTable.h:71:40: note: the comparison reduces to '(-15 >= -14)'
+ninja: build stopped: subcommand failed.

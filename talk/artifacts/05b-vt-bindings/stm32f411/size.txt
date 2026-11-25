@@ -1,0 +1,20 @@
+./talk/05b-vt-bindings/build/stm32f411/firmware.elf  :
+section              size        addr
+.isr_vector           408   134217728
+.text                  12   134218136
+.rodata                 0   134218148
+.data                   0   536870912
+.bss                    0   536870912
+._user_heap_stack       0   536870912
+.ARM.attributes        52           0
+.debug_info          4956           0
+.debug_abbrev        1287           0
+.debug_aranges        104           0
+.debug_rnglists        63           0
+.debug_line          1953           0
+.debug_str           4921           0
+.comment               70           0
+.debug_frame          120           0
+Total               13946
+
+

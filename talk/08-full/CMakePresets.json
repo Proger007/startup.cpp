@@ -1,0 +1,48 @@
+{
+  "version": 6,
+  "include": [
+    "../common/presets/base.json"
+  ],
+  "configurePresets": [
+    {
+      "name": "stm32f411-nano",
+      "inherits": "_stm32f411"
+    },
+    {
+      "name": "stm32f411-full",
+      "inherits": "_stm32f411",
+      "cacheVariables": {
+        "STARTUP_LIBC": "full"
+      }
+    },
+    {
+      "name": "nrf54l15-nano",
+      "inherits": "_nrf54l15"
+    },
+    {
+      "name": "nrf54l15-full",
+      "inherits": "_nrf54l15",
+      "cacheVariables": {
+        "STARTUP_LIBC": "full"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "stm32f411-nano",
+      "configurePreset": "stm32f411-nano"
+    },
+    {
+      "name": "stm32f411-full",
+      "configurePreset": "stm32f411-full"
+    },
+    {
+      "name": "nrf54l15-nano",
+      "configurePreset": "nrf54l15-nano"
+    },
+    {
+      "name": "nrf54l15-full",
+      "configurePreset": "nrf54l15-full"
+    }
+  ]
+}

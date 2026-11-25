@@ -1,0 +1,9 @@
+
+./talk/05b-vt-bindings/build/nrf54l15/firmware.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+0000047c <Reset_Handler>:
+ 47c:	b508      	push	{r3, lr}
+ 47e:	f7ff fffb 	bl	478 <main>

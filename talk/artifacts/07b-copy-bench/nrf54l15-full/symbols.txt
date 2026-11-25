@@ -1,0 +1,21 @@
+00000548 00000002 T timer00_handler()
+00000500 00000002 T Default_Handler
+20000000 00000010 B results
+0000054c 00000020 t nrf54l_errata_31
+0000054c 00000020 t nrf54l_errata_32
+0000054c 00000020 t nrf54l_errata_40
+0000056c 00000034 t nrf54l_handle_approtect_signal
+0000056c 00000034 t nrf54l_handle_secureapprotect_signal
+00000504 00000044 T Reset_Handler
+000006ac 00000086 T memset
+00000478 00000088 T main
+00000734 000000ec T memcpy
+000005a0 0000010c T SystemInit
+00000000 00000478 t vector_table
+20000010 00004000 b (anonymous namespace)::destination
+00000820 00004000 t (anonymous namespace)::source
+20000000 00004010 B __bss_start__
+20004010 0003bff0 B __bss_end__
+00004828 1fffb7d8 B CodeFlashUsed
+20004010 e000360b N __HeapLimit
+20040000 fffc4010 B __StackTop

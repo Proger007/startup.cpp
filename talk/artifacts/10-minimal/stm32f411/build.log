@@ -1,0 +1,20 @@
+Preset CMake variables:
+
+  CMAKE_TOOLCHAIN_FILE:FILEPATH="./talk/10-minimal/../../gcc-arm-none-eabi.cmake"
+  STARTUP_BOARD="NucleoF411RE"
+
+-- The CXX compiler identification is GNU 15.3.1
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (0.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: ./talk/10-minimal/build/stm32f411
+[1/3] Building CXX object CMakeFiles/firmware.dir/main.cpp.obj
+[2/3] Building CXX object CMakeFiles/firmware.dir/startup/startup.cpp.obj
+[3/3] Linking CXX executable firmware.elf
+Memory region         Used Size  Region Size  %age Used
+             RAM:           0 B       128 KB      0.00%
+           FLASH:          16 B       512 KB      0.00%

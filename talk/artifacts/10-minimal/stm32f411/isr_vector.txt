@@ -1,0 +1,5 @@
+
+./talk/10-minimal/build/stm32f411/firmware.elf:     file format elf32-littlearm
+
+Contents of section .isr_vector:
+ 8000000 00000220 0b000008                    ... ....        

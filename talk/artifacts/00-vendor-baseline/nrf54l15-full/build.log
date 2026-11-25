@@ -1,0 +1,33 @@
+Preset CMake variables:
+
+  CMAKE_TOOLCHAIN_FILE:FILEPATH="./talk/00-vendor-baseline/../../gcc-arm-none-eabi.cmake"
+  STARTUP_BOARD="nRF54L15DK"
+  STARTUP_LIBC="full"
+
+-- The C compiler identification is GNU 15.3.1
+-- The CXX compiler identification is GNU 15.3.1
+-- The ASM compiler identification is GNU
+-- Found assembler: E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (2.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: ./talk/00-vendor-baseline/build/nrf54l15-full
+[1/5] Building ASM object CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/nordic/gcc_startup_nrf54l15_application.S.obj
+[2/5] Building C object CMakeFiles/firmware.dir/main.c.obj
+[3/5] Building C object CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/talk/common/vendor/syscalls.c.obj
+[4/5] Building C object CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+[5/5] Linking C executable firmware.elf
+E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/bin/ld.exe: warning: firmware.elf has a LOAD segment with RWX permissions
+Memory region         Used Size  Region Size  %age Used
+           FLASH:        2720 B      1524 KB      0.17%
+             RAM:         452 B       128 KB      0.34%
+            RAM1:           0 B        64 KB      0.00%

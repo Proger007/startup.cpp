@@ -1,0 +1,260 @@
+
+Discarded input sections
+
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+ .text          0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .data          0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .text.SystemCoreClockUpdate
+                0x00000000       0x2c CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .data.SystemCoreClock
+                0x00000000        0x4 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x0017d000         xr
+RAM              0x20000000         0x00040000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD CMakeFiles/firmware.dir/main.cpp.obj
+LOAD CMakeFiles/firmware.dir/startup/startup.cpp.obj
+LOAD CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+LOAD CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libstdc++.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libm.a
+START GROUP
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libg.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc.a
+END GROUP
+START GROUP
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/thumb/v8-m.main+fp/hard\libgcc.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libc.a
+LOAD E:/Various/arm-gnu-toolchain-15.3.rel2-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/15.3.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/hard\libnosys.a
+END GROUP
+
+.text           0x00000000      0x680
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x478 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ *(.text*)
+ .text.startup.main
+                0x00000478       0x18 CMakeFiles/firmware.dir/main.cpp.obj
+                0x00000478                main
+ .text.startup._GLOBAL__sub_I_counter
+                0x00000490       0x14 CMakeFiles/firmware.dir/main.cpp.obj
+ .text.Default_Handler
+                0x000004a4        0x2 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+                0x000004a4                Default_Handler
+ *fill*         0x000004a6        0x2 
+ .text.Reset_Handler
+                0x000004a8       0x74 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+                0x000004a8                Reset_Handler
+ .text._Z15timer00_handlerv
+                0x0000051c        0x2 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+                0x0000051c                timer00_handler()
+ *fill*         0x0000051e        0x2 
+ .text.nrf54l_errata_31
+                0x00000520       0x20 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .text.nrf54l_handle_approtect_signal
+                0x00000540       0x34 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+ .text.SystemInit
+                0x00000574      0x10c CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+                0x00000574                SystemInit
+ *(.init)
+ *(.fini)
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ *(.eh_frame*)
+
+.glue_7         0x00000680        0x0
+ .glue_7        0x00000680        0x0 linker stubs
+
+.glue_7t        0x00000680        0x0
+ .glue_7t       0x00000680        0x0 linker stubs
+
+.vfp11_veneer   0x00000680        0x0
+ .vfp11_veneer  0x00000680        0x0 linker stubs
+
+.v4_bx          0x00000680        0x0
+ .v4_bx         0x00000680        0x0 linker stubs
+
+.iplt           0x00000680        0x0
+ .iplt          0x00000680        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+
+.rel.dyn        0x00000680        0x0
+ .rel.iplt      0x00000680        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000680                        __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000680                        __exidx_end = .
+                0x00000680                        __etext = .
+
+.data           0x20000000        0x8 load address 0x00000680
+                0x20000000                        __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.increment
+                0x20000000        0x4 CMakeFiles/firmware.dir/main.cpp.obj
+                0x20000000                increment
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x20000004                        PROVIDE (__preinit_array_end = .)
+                0x20000004                        . = ALIGN (0x4)
+                0x20000004                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x20000004        0x4 CMakeFiles/firmware.dir/main.cpp.obj
+                0x20000008                        PROVIDE (__init_array_end = .)
+                0x20000008                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x20000008                        . = ALIGN (0x4)
+                0x20000008                        __data_end__ = .
+
+.igot.plt       0x20000008        0x0 load address 0x00000688
+ .igot.plt      0x20000008        0x0 CMakeFiles/firmware.dir/main.cpp.obj
+
+.bss            0x20000008        0x8 load address 0x00000688
+                0x20000008                        . = ALIGN (0x4)
+                0x20000008                        __bss_start__ = .
+ *(.bss*)
+ .bss.blinky    0x20000008        0x4 CMakeFiles/firmware.dir/main.cpp.obj
+                0x20000008                blinky
+ .bss.counter   0x2000000c        0x4 CMakeFiles/firmware.dir/main.cpp.obj
+                0x2000000c                counter
+ *(COMMON)
+                0x20000010                        . = ALIGN (0x4)
+                0x20000010                        __bss_end__ = .
+
+.heap           0x20000010        0x0
+                0x20000010                        __HeapBase = .
+                0x20000010                        __end__ = .
+                [!provide]                        PROVIDE (end = .)
+ *(.heap*)
+                0x20000010                        __HeapLimit = .
+
+.stack_dummy
+ *(.stack*)
+                0x20040000                        __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20040000                        __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                [!provide]                        PROVIDE (__stack = __StackTop)
+                0x00000001                        ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x00000008                        DataInitFlashUsed = (__bss_start__ - __data_start__)
+                0x00000680                        CodeFlashUsed = (__etext - ORIGIN (FLASH))
+                0x00000688                        TotalFlashUsed = (CodeFlashUsed + DataInitFlashUsed)
+                0x00000001                        ASSERT ((TotalFlashUsed <= LENGTH (FLASH)), region FLASH overflowed with .data and user data)
+OUTPUT(firmware.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x32bc
+ .debug_info    0x00000000      0x4d2 CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_info    0x000004d2     0x16d3 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_info    0x00001ba5       0x42 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+ .debug_info    0x00001be7     0x16d5 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_abbrev   0x00000000      0xa20
+ .debug_abbrev  0x00000000      0x161 CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_abbrev  0x00000161      0x5e9 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_abbrev  0x0000074a       0x33 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+ .debug_abbrev  0x0000077d      0x2a3 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_loclists
+                0x00000000      0x113
+ .debug_loclists
+                0x00000000       0x1c CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_loclists
+                0x0000001c       0x9d CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_loclists
+                0x000000b9       0x5a CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_aranges  0x00000000       0xa8
+ .debug_aranges
+                0x00000000       0x28 CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_aranges
+                0x00000028       0x28 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_aranges
+                0x00000050       0x20 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+ .debug_aranges
+                0x00000070       0x38 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_rnglists
+                0x00000000       0xbf
+ .debug_rnglists
+                0x00000000       0x19 CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_rnglists
+                0x00000019       0x61 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_rnglists
+                0x0000007a       0x13 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+ .debug_rnglists
+                0x0000008d       0x32 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_line     0x00000000      0xfcd
+ .debug_line    0x00000000      0x32c CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_line    0x0000032c      0x7a7 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_line    0x00000ad3       0x91 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+ .debug_line    0x00000b64      0x469 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_str      0x00000000     0x29d0
+ .debug_str     0x00000000     0x29d0 CMakeFiles/firmware.dir/main.cpp.obj
+                                0x55f (size before relaxing)
+ .debug_str     0x000029d0        0x0 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+                               0x2074 (size before relaxing)
+ .debug_str     0x000029d0        0x0 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+                                0x1c3 (size before relaxing)
+ .debug_str     0x000029d0        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+                                0xb9c (size before relaxing)
+
+.comment        0x00000000       0x46
+ .comment       0x00000000       0x46 CMakeFiles/firmware.dir/main.cpp.obj
+                                 0x47 (size before relaxing)
+ .comment       0x00000046        0x0 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+                                 0x47 (size before relaxing)
+ .comment       0x00000046        0x0 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+                                 0x47 (size before relaxing)
+ .comment       0x00000046        0x0 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+                                 0x47 (size before relaxing)
+
+.ARM.attributes
+                0x00000000       0x3a
+ .ARM.attributes
+                0x00000000       0x3a CMakeFiles/firmware.dir/main.cpp.obj
+ .ARM.attributes
+                0x0000003a       0x3a CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .ARM.attributes
+                0x00000074       0x3a CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+ .ARM.attributes
+                0x000000ae       0x3a CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj
+
+.debug_frame    0x00000000       0xe0
+ .debug_frame   0x00000000       0x30 CMakeFiles/firmware.dir/main.cpp.obj
+ .debug_frame   0x00000030       0x38 CMakeFiles/firmware.dir/startup/startup.cpp.obj
+ .debug_frame   0x00000068       0x20 CMakeFiles/firmware.dir/bsp/nRF54L15DK/Handlers.cpp.obj
+ .debug_frame   0x00000088       0x58 CMakeFiles/firmware.dir/E_/Dropbox/Work/Projects/MeetingC++26/startup_cpp_rev3/Drivers/Nordic/system_nrf54l.c.obj

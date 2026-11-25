@@ -1,0 +1,17 @@
+./talk/06a-early-hook/build/nrf54l15-typo-hook/firmware.elf  :
+section            size        addr
+.text              1156           0
+.data                 0   536870912
+.bss                  0   536870912
+.debug_info        5051           0
+.debug_abbrev      1355           0
+.debug_aranges      104           0
+.debug_rnglists      63           0
+.debug_line        2076           0
+.debug_str         5007           0
+.comment             70           0
+.ARM.attributes      58           0
+.debug_frame        120           0
+Total             15060
+
+

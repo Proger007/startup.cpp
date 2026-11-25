@@ -1,0 +1,48 @@
+{
+  "version": 6,
+  "include": [
+    "../common/presets/base.json"
+  ],
+  "configurePresets": [
+    {
+      "name": "stm32f411",
+      "inherits": "_stm32f411"
+    },
+    {
+      "name": "stm32f411-builtins",
+      "inherits": "_stm32f411",
+      "cacheVariables": {
+        "STARTUP_BUILTINS": "ON"
+      }
+    },
+    {
+      "name": "nrf54l15",
+      "inherits": "_nrf54l15"
+    },
+    {
+      "name": "nrf54l15-builtins",
+      "inherits": "_nrf54l15",
+      "cacheVariables": {
+        "STARTUP_BUILTINS": "ON"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "stm32f411",
+      "configurePreset": "stm32f411"
+    },
+    {
+      "name": "stm32f411-builtins",
+      "configurePreset": "stm32f411-builtins"
+    },
+    {
+      "name": "nrf54l15",
+      "configurePreset": "nrf54l15"
+    },
+    {
+      "name": "nrf54l15-builtins",
+      "configurePreset": "nrf54l15-builtins"
+    }
+  ]
+}

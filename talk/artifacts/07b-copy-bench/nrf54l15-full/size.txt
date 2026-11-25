@@ -1,0 +1,20 @@
+./talk/07b-copy-bench/build/nrf54l15-full/firmware.elf  :
+section            size        addr
+.text             18464           0
+.ARM.exidx            8       18464
+.data                 0   536870912
+.bss              16400   536870912
+.debug_info       30235           0
+.debug_abbrev      3038           0
+.debug_loclists     337           0
+.debug_aranges      160           0
+.debug_rnglists     295           0
+.debug_line        4673           0
+.debug_str         9432           0
+.comment             70           0
+.ARM.attributes      56           0
+.debug_frame        300           0
+.debug_line_str     261           0
+Total             83729
+
+

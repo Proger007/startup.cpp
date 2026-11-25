@@ -1,0 +1,31 @@
+
+./talk/07b-copy-bench/build/nrf54l15-full/firmware.elf:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+00000504 <Reset_Handler>:
+     504:	b508      	push	{r3, lr}
+     506:	f000 f84b 	bl	5a0 <SystemInit>
+     50a:	2100      	movs	r1, #0
+     50c:	4b09      	ldr	r3, [pc, #36]	@ (534 <Reset_Handler+0x30>)
+     50e:	4a0a      	ldr	r2, [pc, #40]	@ (538 <Reset_Handler+0x34>)
+     510:	4293      	cmp	r3, r2
+     512:	d106      	bne.n	522 <Reset_Handler+0x1e>
+     514:	4b09      	ldr	r3, [pc, #36]	@ (53c <Reset_Handler+0x38>)
+     516:	4a0a      	ldr	r2, [pc, #40]	@ (540 <Reset_Handler+0x3c>)
+     518:	490a      	ldr	r1, [pc, #40]	@ (544 <Reset_Handler+0x40>)
+     51a:	428b      	cmp	r3, r1
+     51c:	d104      	bne.n	528 <Reset_Handler+0x24>
+     51e:	f7ff ffab 	bl	478 <main>
+     522:	f843 1b04 	str.w	r1, [r3], #4
+     526:	e7f3      	b.n	510 <Reset_Handler+0xc>
+     528:	f852 0b04 	ldr.w	r0, [r2], #4
+     52c:	f843 0b04 	str.w	r0, [r3], #4
+     530:	e7f3      	b.n	51a <Reset_Handler+0x16>
+     532:	bf00      	nop
+     534:	20000000 	.word	0x20000000
+     538:	20004010 	.word	0x20004010
+     53c:	20000000 	.word	0x20000000
+     540:	00004828 	.word	0x00004828
+     544:	20000000 	.word	0x20000000

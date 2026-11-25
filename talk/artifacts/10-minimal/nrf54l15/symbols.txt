@@ -1,0 +1,4 @@
+00000008 00000002 T main
+0000000a 00000006 T Reset_Handler
+00000000 00000008 t vector_table
+20040000 dffc0010 T __StackTop

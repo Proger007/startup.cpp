@@ -1,0 +1,23 @@
+./talk/07b-copy-bench/build/stm32f411-full/firmware.elf  :
+section              size        addr
+.isr_vector           408   134217728
+.text                 684   134218136
+.rodata             16384   134218820
+.ARM                    8   134235204
+.data                   0   536870912
+.bss                16400   536870912
+._user_heap_stack       0   536887312
+.ARM.attributes        50           0
+.debug_info         25757           0
+.debug_abbrev        2706           0
+.debug_loclists       387           0
+.debug_aranges        144           0
+.debug_rnglists       242           0
+.debug_line          4295           0
+.debug_str           7217           0
+.comment               70           0
+.debug_frame          260           0
+.debug_line_str       257           0
+Total               75269
+
+
